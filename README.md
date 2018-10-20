@@ -3,4 +3,4 @@
 
 ## 参考
 
-- [TianYongwei/LearnNLP: 学习自然语言处理](https://github.com/TianYongwei/LearnNLP)
+- [hankcs/HanLP: 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁](https://github.com/hankcs/HanLP)
